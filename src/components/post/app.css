@@ -1,0 +1,16 @@
+.like:hover {
+    color: red;
+    cursor: pointer;
+}
+.comment-logo:hover {
+    color: green;
+}
+.share:hover {
+    color: brown;
+}
+.post {
+    cursor: pointer;
+}
+.post:hover {
+   box-shadow: 0 2px 10px rgb(0 0 0 / 50%)
+}

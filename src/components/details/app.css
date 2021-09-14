@@ -1,0 +1,25 @@
+#post-details {
+    height: 400px;
+    width: 400px;
+    background-color: #fff;
+}
+#comments {
+    height: 400px;
+    width: 650px;
+    background-color: #fff;
+    overflow-y: scroll;
+}
+.comment {
+    background-color: rgb(243, 243, 243);
+    margin-top: 10px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+}
+.body {
+   color: rgb(92, 92, 92);
+}
+#info {
+    height: 90vh;
+}
